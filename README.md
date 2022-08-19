@@ -19,6 +19,12 @@
 
 <p>
 
+<h4>tiny services:</h4>
+
+<div>https://ipaddr.pl/help</div>
+<div>https://passwd.pl/help</div>
+<div>https://shittypasswords.com/</div>
+
 <h4>golang:</h4>
 
 <div>https://github.com/reinvented-stuff/nginx-mail-auth-http-server</div>
