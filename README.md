@@ -21,31 +21,31 @@
 
 <h4>tiny services:</h4>
 
-<div>https://ipaddr.pl/help</div>
-<div>https://passwd.pl/help</div>
-<div>https://shittypasswords.com/</div>
+<div><a target="_blank" href="https://ipaddr.pl/help">https://ipaddr.pl/help</a></div>
+<div><a target="_blank" href="https://passwd.pl/help">https://passwd.pl/help</a></div>
+<div><a target="_blank" href="https://shittypasswords.com/">https://shittypasswords.com/</a></div>
 
 <h4>golang:</h4>
 
-<div>https://github.com/reinvented-stuff/nginx-mail-auth-http-server</div>
-<div>https://github.com/taskq</div>
+<div><a target="_blank" href="https://github.com/reinvented-stuff/nginx-mail-auth-http-server">https://github.com/reinvented-stuff/nginx-mail-auth-http-server</a></div>
+<div><a target="_blank" href="https://github.com/taskq">https://github.com/taskq</a></div>
 
 <h4>bash:</h4>
 
-<div>https://github.com/pavelkim/check_certificates</div>
-<div>https://github.com/pavelkim/fs_indexer</div>
-<div>https://github.com/reinvented-stuff/rsa_encrypt</div>
+<div><a target="_blank" href="https://github.com/pavelkim/check_certificates">https://github.com/pavelkim/check_certificates</a></div>
+<div><a target="_blank" href="https://github.com/pavelkim/fs_indexer">https://github.com/pavelkim/fs_indexer</a></div>
+<div><a target="_blank" href="https://github.com/reinvented-stuff/rsa_encrypt">https://github.com/reinvented-stuff/rsa_encrypt</a></div>
 
 <h4>gtihub actions:</h4>
 
-<div>https://github.com/reinvented-stuff/build-docker-image-action</div>
-<div>https://github.com/reinvented-stuff/validate-version-action</div>
-<div>https://github.com/reinvented-stuff/changelog-render-action</div>
+<div><a target="_blank" href="https://github.com/reinvented-stuff/build-docker-image-action">https://github.com/reinvented-stuff/build-docker-image-action</a></div>
+<div><a target="_blank" href="https://github.com/reinvented-stuff/validate-version-action">https://github.com/reinvented-stuff/validate-version-action</a></div>
+<div><a target="_blank" href="https://github.com/reinvented-stuff/changelog-render-action">https://github.com/reinvented-stuff/changelog-render-action</a></div>
 
 <h4>ci/cd on github actions:</h4>
 
-<div>https://github.com/reinvented-stuff/tdlib-build</div>
-<div>https://github.com/reinvented-stuff/nginx-redis-njs</div>
+<div><a target="_blank" href="https://github.com/reinvented-stuff/tdlib-build">https://github.com/reinvented-stuff/tdlib-build</a></div>
+<div><a target="_blank" href="https://github.com/reinvented-stuff/nginx-redis-njs">https://github.com/reinvented-stuff/nginx-redis-njs</a></div>
 
 </p>
 
