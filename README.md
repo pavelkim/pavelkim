@@ -36,6 +36,10 @@
 <div><a target="_blank" href="https://github.com/pavelkim/fs_indexer">https://github.com/pavelkim/fs_indexer</a></div>
 <div><a target="_blank" href="https://github.com/reinvented-stuff/rsa_encrypt">https://github.com/reinvented-stuff/rsa_encrypt</a></div>
 
+<h4>mikrotik:</h4>
+
+<div><a target="_blank" href="https://github.com/pavelkim/mikrotik">https://github.com/pavelkim/mikrotik</a></div>
+
 <h4>gtihub actions:</h4>
 
 <div><a target="_blank" href="https://github.com/reinvented-stuff/build-docker-image-action">https://github.com/reinvented-stuff/build-docker-image-action</a></div>
