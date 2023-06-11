@@ -46,6 +46,8 @@
 
 <div><a target="_blank" href="https://addons.mozilla.org/en-US/firefox/user/14003155">Extensions and Add-ons</a></div>
 
+<h4>Django:</h4>
+<div><a target="_blank" href="https://pypi.org/project/django-pyp8s/">Application for pyp8s</a></div>
 
 <h4>gtihub actions:</h4>
 
