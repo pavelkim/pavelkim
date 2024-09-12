@@ -42,6 +42,10 @@
 
 <div><a target="_blank" href="https://github.com/pavelkim/mikrotik">https://github.com/pavelkim/mikrotik</a></div>
 
+<h4>nginx njs:</h4>
+
+<div><a target="_blank" href="https://github.com/reinvented-stuff/nginx-njs-prometheus">https://github.com/reinvented-stuff/nginx-njs-prometheus</a></div>
+
 <h4>firefox:</h4>
 
 <div><a target="_blank" href="https://addons.mozilla.org/en-US/firefox/user/14003155">Extensions and Add-ons</a></div>
