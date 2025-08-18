@@ -25,6 +25,7 @@
 <div><a target="_blank" href="https://passwd.pl/help">https://passwd.pl/help</a></div>
 <div><a target="_blank" href="https://shittypasswords.com/">https://shittypasswords.com/</a></div>
 <div><a target="_blank" href="https://wheretofeedtheducksingothenburg.com/">https://wheretofeedtheducksingothenburg.com/</a></div>
+<div><a target="_blank" href="https://openai-pricing.com/">https://openai-pricing.com/</a></div>
 
 <h4>golang:</h4>
 
