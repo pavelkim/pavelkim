@@ -22,7 +22,6 @@
 <h4>tiny projects:</h4>
 
 <div><a target="_blank" href="https://ipaddr.pl/help">https://ipaddr.pl/help</a></div>
-<div><a target="_blank" href="https://passwd.pl/help">https://passwd.pl/help</a></div>
 <div><a target="_blank" href="https://shittypasswords.com/">https://shittypasswords.com/</a></div>
 <div><a target="_blank" href="https://wheretofeedtheducksingothenburg.com/">https://wheretofeedtheducksingothenburg.com/</a></div>
 <div><a target="_blank" href="https://openai-pricing.com/">https://openai-pricing.com/</a></div>
