@@ -36,7 +36,7 @@
 
 <div><a target="_blank" href="https://github.com/pyp8s">pyp8s</a></div>
 <div><a target="_blank" href="https://pypi.org/project/py-star-tsp/">py-star-tsp</a></div>
-<div><a target="_blank" href="https://github.com/printer-stream/py-ibm-4610/">py-ibm-4610</a></div>
+<div><a target="_blank" href="https://pypi.org/project/py-ibm-4610/">py-ibm-4610</a></div>
 
 <h4>bash:</h4>
 
