@@ -21,23 +21,21 @@
 
 <h4>tiny projects:</h4>
 
-<div><a target="_blank" href="https://ipaddr.pl/help">https://ipaddr.pl/help</a></div>
-<div><a target="_blank" href="https://shittypasswords.com/">https://shittypasswords.com/</a></div>
-<div><a target="_blank" href="https://wheretofeedtheducksingothenburg.com/">https://wheretofeedtheducksingothenburg.com/</a></div>
-<div><a target="_blank" href="https://openai-pricing.com/">https://openai-pricing.com/</a></div>
+<div><a target="_blank" href="https://ipaddr.pl/help">https://ipaddr.pl/</a> — What's my IP address</div>
+<div><a target="_blank" href="https://shittypasswords.com/">https://shittypasswords.com/</a> — Get yourself an actually leaked password</div>
+<div><a target="_blank" href="https://openai-pricing.com/">https://openai-pricing.com/</a> — API with OpenAI model prices</div>
+
+<h4>python:</h4>
+
+<div><a target="_blank" href="https://github.com/pyp8s">pyp8s</a> — Prometheus Metrics for Python applications</div>
+<div><a target="_blank" href="https://pypi.org/project/py-star-tsp/">py-star-tsp</a> — Star TSP100 receipt printer framework</div>
+<div><a target="_blank" href="https://pypi.org/project/py-ibm-4610/">py-ibm-4610</a> — IBM/Toshiba 4610 receipt printer framework</div>
+<div><a target="_blank" href="https://pypi.org/project/hpgl-buddy/">hpgl-buddy</a> — HP 7475A plotter framework</div>
 
 <h4>golang:</h4>
 
 <div><a target="_blank" href="https://github.com/pavelkim/tzsp_server">https://github.com/pavelkim/tzsp_server</a></div>
 <div><a target="_blank" href="https://github.com/reinvented-stuff/nginx-mail-auth-http-server">https://github.com/reinvented-stuff/nginx-mail-auth-http-server</a></div>
-<div><a target="_blank" href="https://github.com/taskq">https://github.com/taskq</a></div>
-
-<h4>python:</h4>
-
-<div><a target="_blank" href="https://github.com/pyp8s">pyp8s</a></div>
-<div><a target="_blank" href="https://pypi.org/project/py-star-tsp/">py-star-tsp</a></div>
-<div><a target="_blank" href="https://pypi.org/project/py-ibm-4610/">py-ibm-4610</a></div>
-<div><a target="_blank" href="https://pypi.org/project/hpgl-buddy/">hpgl-buddy</a></div>
 
 <h4>bash:</h4>
 
